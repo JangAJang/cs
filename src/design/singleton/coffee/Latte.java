@@ -7,7 +7,7 @@ public class Latte {
 
     private Latte(){}
 
-    public static Latte getInstance() {
+    public static synchronized Latte getInstance() {
         if(latte == null){
             latte = new Latte();
         }
