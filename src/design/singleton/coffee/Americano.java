@@ -1,8 +1,17 @@
 package design.singleton.coffee;
 
 public class Americano {
+
+    private static final Americano americano = new Americano();
+
     private final String name = "아메리카노";
     private final int price = 1_800;
+
+    private Americano(){};
+
+    public static Americano getInstance(){
+        return americano;
+    }
 
     public String getName() {
         return name;

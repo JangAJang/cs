@@ -2,8 +2,8 @@ package design.singleton.coffee;
 
 public class CoffeeMain {
     public static void main(String[] args){
-        Latte latte = new Latte();
-        Americano americano = new Americano();
+        Latte latte = Latte.getInstance();
+        Americano americano = Americano.getInstance();
         latte.tellInfo();
         americano.tellInfo();
     }
