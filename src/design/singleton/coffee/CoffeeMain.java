@@ -6,5 +6,7 @@ public class CoffeeMain {
         Americano americano = Americano.getInstance();
         latte.tellInfo();
         americano.tellInfo();
+        Coffee.LATTE.tellInfo();
+        Coffee.AMERICANO.tellInfo();
     }
 }
