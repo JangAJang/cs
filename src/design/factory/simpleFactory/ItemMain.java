@@ -1,4 +1,4 @@
-package design.factory;
+package design.factory.simpleFactory;
 
 public class ItemMain {
     public static void main(String[] args){

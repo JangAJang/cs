@@ -1,4 +1,4 @@
-package design.factory;
+package design.factory.simpleFactory;
 
 import java.time.LocalDateTime;
 
