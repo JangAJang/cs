@@ -9,8 +9,12 @@ public class Americano {
 
     private Americano(){};
 
+    private static final class HOLDER{
+        private static final Americano americano = new Americano();
+    }
+
     public static Americano getInstance(){
-        return americano;
+        return HOLDER.americano;
     }
 
     public String getName() {
