@@ -10,8 +10,8 @@ public class CardPayment implements PaymentStrategy{
 
     @Override
     public void pay(long totalPrice) {
-        System.out.println("총 " + totalPrice+"원을 카드로 결제했습니다. 카드 빚이 " + debt + "원 남았습니다.");
         debt+=totalPrice;
+        System.out.println("총 " + totalPrice+"원을 카드로 결제했습니다. 카드 빚이 " + debt + "원 남았습니다.");
     }
 
     public void chargeDebt(int money) {

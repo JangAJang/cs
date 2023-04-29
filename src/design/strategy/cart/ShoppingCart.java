@@ -1,6 +1,7 @@
 package design.strategy.cart;
 
 import design.strategy.item.Item;
+import design.strategy.payment.PaymentStrategy;
 
 import java.util.*;
 
@@ -8,6 +9,7 @@ public class ShoppingCart {
     private final HashMap<Item, Integer> items = new HashMap<>();
 
     public void addItem(Item item, int amount){
+        if(item == null) return;
         if(items.containsKey(item)){
             int currentAmount = items.get(item);
             items.replace(item, currentAmount, currentAmount+amount);
@@ -31,11 +33,11 @@ public class ShoppingCart {
         items.replace(item, stock, stock - amount);
     }
 
-    public long getTotalPrice(){
+    public void checkPayment(PaymentStrategy paymentStrategy){
         long total = 0;
         for(Item each : items.keySet()){
             total += each.getPrice() * items.get(each);
         }
-        return total;
+        paymentStrategy.pay(total);
     }
 }
