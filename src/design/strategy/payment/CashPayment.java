@@ -1,4 +1,4 @@
-package design.strategy.item;
+package design.strategy.payment;
 
 public class CashPayment implements PaymentStrategy{
 

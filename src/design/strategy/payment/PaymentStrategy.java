@@ -1,4 +1,4 @@
-package design.strategy.item;
+package design.strategy.payment;
 
 public interface PaymentStrategy {
 
