@@ -1,4 +1,7 @@
-package design.observer.practice;
+package design.observer.practice.observer;
+
+import design.observer.practice.subject.Message;
+import design.observer.practice.subject.Reader;
 
 import java.util.ArrayList;
 import java.util.List;

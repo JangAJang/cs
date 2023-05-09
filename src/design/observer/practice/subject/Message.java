@@ -1,4 +1,4 @@
-package design.observer.practice;
+package design.observer.practice.subject;
 
 import java.time.LocalDateTime;
 

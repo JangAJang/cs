@@ -1,5 +1,9 @@
 package design.observer.practice;
 
+import design.observer.practice.observer.ChatRoom;
+import design.observer.practice.subject.Message;
+import design.observer.practice.subject.Reader;
+
 public class ChatMain {
 
     public static void main(String[] args) {
