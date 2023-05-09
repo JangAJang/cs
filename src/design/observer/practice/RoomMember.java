@@ -1,6 +1,10 @@
 package design.observer.practice;
 
-public class RoomMember implements Reader{
+import design.observer.practice.observer.Room;
+import design.observer.practice.subject.Message;
+import design.observer.practice.subject.Reader;
+
+public class RoomMember implements Reader {
 
     private String name;
     private Room room;
