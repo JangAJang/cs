@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "5c637249aa49f631",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa7793e0b3c88c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5be9bded49582d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/비선형자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18fffd3a4b4f3142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/비선형자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de43022b0891a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/선형자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ac602c207a821f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스/데이터베이스의 기본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e826c25d7489a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bfe5926b34196f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e405ba3f6fa22b46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4980652c6a363229",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fd272057c2637f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed12cf9b308b1eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f1a53781fc8e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf953244f302fef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "302ff146ba5b40d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd98866b6c3fbc75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05bd095c9a2c36dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e405ba3f6fa22b46",
+  "lastOpenFiles": [
+    "데이터베이스/데이터베이스의 기본.md",
+    "데이터베이스/무제 파일.md",
+    "자료구조/자료구조.md",
+    "자료구조/선형자료구조.md",
+    "자료구조/비선형자료구조.md",
+    "자료구조",
+    "데이터베이스"
+  ]
+}
