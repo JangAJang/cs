@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "544f58517184c46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스/데이터베이스 만드는 과정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa7e520dc716cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스/정규화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fca384ed9cb410fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "트랜잭션과 무결성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "트랜잭션과 무결성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "트랜잭션과 무결성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "트랜잭션과 무결성.md"
+              }
             }
           }
         ]
@@ -179,9 +219,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e405ba3f6fa22b46",
+  "active": "fca384ed9cb410fe",
   "lastOpenFiles": [
+    "데이터베이스/정규화.md",
+    "트랜잭션과 무결성.md",
     "데이터베이스/데이터베이스의 기본.md",
+    "데이터베이스/데이터베이스 만드는 과정.md",
     "데이터베이스/무제 파일.md",
     "자료구조/자료구조.md",
     "자료구조/선형자료구조.md",
