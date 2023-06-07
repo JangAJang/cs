@@ -4,95 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa7793e0b3c88c4",
+        "id": "e9fc9fbc5b06c108",
         "type": "tabs",
         "children": [
           {
-            "id": "a5be9bded49582d6",
+            "id": "3658591f22d0c380",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e085fa698bbb89e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자료구조/비선형자료구조.md",
+                "file": "데이터베이스/조인.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "18fffd3a4b4f3142",
+            "id": "e715423acc1429dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자료구조/비선형자료구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de43022b0891a2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자료구조/선형자료구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ac602c207a821f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스/데이터베이스의 기본.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "544f58517184c46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스/데이터베이스 만드는 과정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa7e520dc716cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스/정규화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fca384ed9cb410fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "트랜잭션과 무결성.md",
+                "file": "데이터베이스/조인.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "트랜잭션과 무결성.md",
+                "file": "데이터베이스/조인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "트랜잭션과 무결성.md",
+                "file": "데이터베이스/조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "트랜잭션과 무결성.md"
+                "file": "데이터베이스/조인.md"
               }
             }
           }
@@ -219,12 +167,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fca384ed9cb410fe",
+  "active": "e085fa698bbb89e1",
   "lastOpenFiles": [
+    "데이터베이스/인덱싱.md",
+    "데이터베이스/조인.md",
+    "데이터베이스/트랜잭션과 무결성.md",
+    "데이터베이스/격리성.md",
     "데이터베이스/정규화.md",
-    "트랜잭션과 무결성.md",
-    "데이터베이스/데이터베이스의 기본.md",
     "데이터베이스/데이터베이스 만드는 과정.md",
+    "데이터베이스/데이터베이스의 기본.md",
     "데이터베이스/무제 파일.md",
     "자료구조/자료구조.md",
     "자료구조/선형자료구조.md",
